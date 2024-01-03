@@ -13,7 +13,7 @@ This is a simple real-time chat application built using Node.js, Express, HTML, 
 ### Installation
 1.Clone the repository:
 
-``` git clone https://github.com/your-username/real-time-chat-app.git ```
+``` git clone https://github.com/ParZival6677/Real-Time-Chat-App.git ```
 
 2.Navigate to the project directory:
 
