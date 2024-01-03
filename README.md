@@ -2,29 +2,24 @@
 
 This is a simple real-time chat application built using Node.js, Express, HTML, CSS, and JavaScript. It allows users to exchange messages in real-time using Server-Sent Events (SSE).
 
-Features
+### Features
 Send and receive messages in real-time.
 Simulated chat-bot responses.
 Typing animation for chat-bot messages.
 Basic user interface for sending and displaying messages.
 
-Installation
+### Installation
 Clone the repository:
+``` git clone https://github.com/your-username/real-time-chat-app.git ```
 
-bash
-git clone https://github.com/your-username/real-time-chat-app.git
 Navigate to the project directory:
-
-bash
-cd real-time-chat-app
+```cd real-time-chat-app ```
 
 Install dependencies:
-bash
-npm install express
+```npm install express```
 
-Usage
+### Usage
 Start the server:
-bash
-npm start http://localhost:3000/chat.html
+```npm start http://localhost:3000/chat.html```
 
 Enter a message in the input field and press "Send" to send messages.
