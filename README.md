@@ -2,7 +2,7 @@
 
 This is a simple real-time chat application built using Node.js, Express, HTML, CSS, and JavaScript. It allows users to exchange messages in real-time using Server-Sent Events (SSE).
 
-/image.png
+
 
 ### Features
 - Send and receive messages in real-time.
@@ -15,11 +15,11 @@ This is a simple real-time chat application built using Node.js, Express, HTML, 
 
 ``` git clone https://github.com/your-username/real-time-chat-app.git ```
 
-1.Navigate to the project directory:
+2.Navigate to the project directory:
 
 ```cd real-time-chat-app ```
 
-1.Install dependencies:
+3.Install dependencies:
 
 ```npm install express```
 
