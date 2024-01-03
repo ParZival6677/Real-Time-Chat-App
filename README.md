@@ -2,6 +2,8 @@
 
 This is a simple real-time chat application built using Node.js, Express, HTML, CSS, and JavaScript. It allows users to exchange messages in real-time using Server-Sent Events (SSE).
 
+
+
 ### Features
 Send and receive messages in real-time.
 Simulated chat-bot responses.
