@@ -15,11 +15,11 @@ This is a simple real-time chat application built using Node.js, Express, HTML, 
 
 ``` git clone https://github.com/your-username/real-time-chat-app.git ```
 
-2.Navigate to the project directory:
+1.Navigate to the project directory:
 
 ```cd real-time-chat-app ```
 
-3.Install dependencies:
+1.Install dependencies:
 
 ```npm install express```
 
