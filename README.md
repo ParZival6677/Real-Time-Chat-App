@@ -12,16 +12,20 @@ This is a simple real-time chat application built using Node.js, Express, HTML, 
 
 ### Installation
 Clone the repository:
+
 ``` git clone https://github.com/your-username/real-time-chat-app.git ```
 
 Navigate to the project directory:
+
 ```cd real-time-chat-app ```
 
 Install dependencies:
+
 ```npm install express```
 
 ### Usage
 Start the server:
+
 ```npm start http://localhost:3000/chat.html```
 
 Enter a message in the input field and press "Send" to send messages.
