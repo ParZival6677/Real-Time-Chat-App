@@ -5,10 +5,10 @@ This is a simple real-time chat application built using Node.js, Express, HTML, 
 
 
 ### Features
-Send and receive messages in real-time.
-Simulated chat-bot responses.
-Typing animation for chat-bot messages.
-Basic user interface for sending and displaying messages.
+- Send and receive messages in real-time.
+- Simulated chat-bot responses.
+- Typing animation for chat-bot messages.
+- Basic user interface for sending and displaying messages.
 
 ### Installation
 Clone the repository:
