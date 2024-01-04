@@ -55,8 +55,8 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // Simulating bot "typing" delay
     setTimeout(() => {
-      clearInterval(typingInterval); // Stop the typing animation
-      botTypingIndicator.remove(); // Remove the typing indicator
+      clearInterval(typingInterval); 
+      botTypingIndicator.remove();
 
       const newMessage = document.createElement('div');
       newMessage.classList.add('chat');
@@ -66,7 +66,7 @@ document.addEventListener('DOMContentLoaded', () => {
         <p>${message}</p>
       `;
       messagesDiv.appendChild(newMessage);
-    }, 2000); // Adjust the delay time as needed (in milliseconds)
+    }, 2000); 
   }
 
 
